@@ -1,2 +1,2 @@
 # xi-s-saton.github.io
-gitの練習用
+GitHub練習　フェリカ
